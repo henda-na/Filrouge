@@ -1,5 +1,5 @@
 #menue{
-    position: ;
+
     background:#7caa33;
     color:white;
     font-family: 'Arimo', sans-serif;
@@ -7,13 +7,23 @@
     font-size: 2em;
 
 }
-font-family: 'Arimo', sans-serif;
+/*font-family: 'Arimo', sans-serif;
 
-font-family: 'Noto Sans TC', sans-serif;
+font-family: 'Noto Sans TC', sans-serif;*/
 #taillelogo{
     max-width: 100%;
 }
 body{
     color:#2e6117;
     font-family: 'Arimo', sans-serif;
+}
+#phrseaux{
+    
+    padding: 2em;
+}
+footer{
+   background-color: #7caa33;
+}
+a{
+    color:#2e6117 ;
 }
