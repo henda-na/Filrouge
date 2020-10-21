@@ -4,8 +4,9 @@
     color:white;
     font-family: 'Arimo', sans-serif;
     font-weight: bold;
-    font-size: 2em;
-
+    font-size: 1.5em;
+    
+    
 }
 /*font-family: 'Arimo', sans-serif;
 
@@ -14,16 +15,57 @@ font-family: 'Noto Sans TC', sans-serif;*/
     max-width: 100%;
 }
 body{
-    color:#2e6117;
+    
+    color:;
     font-family: 'Arimo', sans-serif;
 }
+
 #phrseaux{
-    
+    color: white;
     padding: 2em;
 }
 footer{
-   background-color: #7caa33;
+
+
+background-color: #7caa33;
+}
+
+#recettes{
+text-align:center;  
+padding-top: 6em;
+padding-bottom: 1.5em;
+
+};
+
+.pfooter{
+    font-size:2em ;
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+
+    color:white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
 }
 a{
-    color:#2e6117 ;
+color :#2e6117 ;
+
+}
+h4{
+    text-align: center;
+    font-family: 'Noto Sans TC', sans-serif; 
+    color: #Fcac1a;
+}
+
+#papropo
+{
+    text-align: center;
+}
+
+
+.apropo-ph{
+    margin:auto;
+    width:40%; 
 }
